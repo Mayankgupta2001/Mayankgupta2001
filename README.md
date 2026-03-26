@@ -19,7 +19,7 @@
 
 💻 Full-Stack Web Developer building **real, production-level websites** for businesses across India & worldwide  
 🎨 Passionate about clean UI, smooth animations & websites that actually **convert visitors into customers**  
-⚡ Delivered **2+ live client projects** & built **10+ demo sites** across 7 industries  
+⚡ Delivered **3+ live client projects** & built **10+ demo sites** across 7 industries  
 📍 Based in **Jaipur, Rajasthan, India** — working with clients globally  
 🤝 Open to **freelance projects**, **agency sub-contracts** & **long-term collaboration**  
 ☕ Fun fact: I turn coffee into clean code!
@@ -66,6 +66,11 @@ Full-scale IT training & services platform — SAP solutions, web & app developm
 ### 💼 [TinyMillion](https://tinymillion.com) — *Live*
 Professional business website with modern animations & conversion-focused design.
 - **Tech:** React, Tailwind CSS, GSAP
+- **Status:** ✅ Live in production
+
+### 🧭 [CareerSakha](https://careersakha.com) — *Live*
+Comprehensive career guidance & mentorship platform — psychometric assessments, expert counsellors, course & college finder, job placement support, and student community for school-to-career journey.
+- **Tech:** React, Node.js, MongoDB, Assessment Engine, SEO
 - **Status:** ✅ Live in production
 
 ---
@@ -118,8 +123,8 @@ const mayank = {
   role: "Full-Stack Web Developer",
   portfolio: "mayankgupta-dev.vercel.app",
   techStack: ["React", "Next.js", "Node.js", "MongoDB", "Tailwind", "Three.js"],
-  liveProjects: 2,
-  demoSites: 10,
+  liveProjects: 3,
+  demoSites: 7,
   niches: ["Cafe", "Gym", "Real Estate", "Salon", "Coaching", "Shop", "Fashion"],
   tagline: "I Build Websites That Grow Your Business.",
   openTo: ["Freelance", "Agency Work", "Long-term Collaboration"],

@@ -63,11 +63,6 @@ Full-scale IT training & services platform — SAP solutions, web & app developm
 - **Tech:** Next.js, React, Node.js, MongoDB, SEO
 - **Status:** ✅ Live in production
 
-### 💼 [TinyMillion](https://tinymillion.com) — *Live*
-Professional business website with modern animations & conversion-focused design.
-- **Tech:** React, Tailwind CSS, GSAP
-- **Status:** ✅ Live in production
-
 ### 🧭 [CareerSakha](https://careersakha.com) — *Live*
 Comprehensive career guidance & mentorship platform — psychometric assessments, expert counsellors, course & college finder, job placement support, and student community for school-to-career journey.
 - **Tech:** React, Node.js, MongoDB, Assessment Engine, SEO

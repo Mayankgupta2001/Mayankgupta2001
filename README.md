@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-💻 Full-stack engineer with **2+ years of hands-on experience** (building since Oct 2024), based in **Jaipur, Rajasthan, India**
+💻 Full-stack engineer with **2+ years of hands-on experience** (building since Jan 2024), based in **Jaipur, Rajasthan, India**
 🏗️ I like owning a problem end-to-end: understanding what the business needs, then shipping the code, integrations and deployment
 💳 Comfortable with the "real world" parts of software: **payment gateways, webhooks/callbacks, admin tooling, email flows, SEO**
 🎓 Self-taught, shaped by real client work, live products and a lot of debugging
@@ -133,7 +133,7 @@ const mayank = {
   location: "Jaipur, Rajasthan, India 🇮🇳",
   role: "Full-Stack Engineer",
   building: ["STEMSaathi (e-shop, payments, LMS)"],
-  experience: "Building since Oct 2024",
+  experience: "Building since Jan 2024",
   techStack: ["React", "Next.js", "TypeScript", "Node.js", "Prisma", "PostgreSQL", "Tailwind"],
   strengths: ["Payments", "Admin tooling", "Integrations", "SEO"],
   currentlyLearning: ["System design", "SQL", "Building for clients end-to-end"],

@@ -76,6 +76,11 @@ E-shop, admin panel, backend and LMS for a STEM education company, with live onl
 - **Tech:** React, Vite, Next.js, TypeScript, Prisma, PostgreSQL, SEO
 - **Status:** ✅ Live in production
 
+### 📒 [CatalogCraft](https://product-catalog-generator-nine.vercel.app/) — *Live*
+AI tool that turns raw product spreadsheets (Excel, CSV) into professional catalogs: AI cleaning and review, 5 templates, PDF and CSV export, login, and Razorpay subscriptions. Launched on Product Hunt.
+- **Tech:** React, TypeScript, Supabase, Razorpay, Vercel
+- **Status:** ✅ Live in production
+
 ### 🎓 [SoftPro9 Academy](https://softpro9.com) — *Live*
 Full-scale IT training and services platform: SAP solutions, web and app development, AI-powered digital marketing, recruitment and blog CMS. **10,000+ students** across India.
 - **Tech:** Next.js, React, Node.js, MongoDB, SEO
@@ -132,7 +137,7 @@ const mayank = {
   name: "Mayank Gupta",
   location: "Jaipur, Rajasthan, India 🇮🇳",
   role: "Full-Stack Engineer",
-  building: ["STEMSaathi (e-shop, payments, LMS)"],
+  building: ["STEMSaathi (e-shop, payments, LMS)", "CatalogCraft (AI catalog maker)"],
   experience: "Building since Jan 2024",
   techStack: ["React", "Next.js", "TypeScript", "Node.js", "Prisma", "PostgreSQL", "Tailwind"],
   strengths: ["Payments", "Admin tooling", "Integrations", "SEO"],
